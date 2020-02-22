@@ -2,8 +2,10 @@
 
 Reference document for modifying inflation on an EOSIO chain.
 
-**Proposer**: `eosnationftw`
-**Proposal Name**: `setinflation`
+- **Proposer**: `eosnationftw`
+- **Proposal Name**: `setinflation`
+
+**Testnets**
 
 - [Kylin](https://kylin.bloks.io/msig/eosnationftw/setinflation)
 - [Jungle2](https://jungle.bloks.io/msig/eosnationftw/setinflation)
@@ -19,7 +21,7 @@ The following `setinflation` parameters would set the total inflation to 1% and 
 
 ## Action
 
-[setinflation.json](setinflation.json)
+JSON file for [setinflation.json](setinflation.json)
 
 ```bash
 cleos push action eosio setinflation '{"annual_rate":100, "inflation_pay_factor":10000, "votepay_factor":40000}' -p eosio
