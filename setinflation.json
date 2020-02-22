@@ -1,0 +1,25 @@
+{"chain_id":"aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
+  "expiration": "2020-03-23T15:42:47",
+  "ref_block_num": 25221,
+  "ref_block_prefix": 4284693176,
+  "max_net_usage_words": 0,
+  "max_cpu_usage_ms": 0,
+  "delay_sec": 0,
+  "context_free_actions": [],
+  "actions": [
+    {
+      "account": "eosio",
+      "name": "setinflation",
+      "authorization": [
+        {
+          "actor": "eosio",
+          "permission": "active"
+        }
+      ],
+      "data": "64000000000000001027000000000000409c000000000000"
+    }
+  ],
+  "transaction_extensions": [],
+  "signatures": [],
+  "context_free_data": []
+}
