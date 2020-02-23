@@ -5,7 +5,7 @@ Reference document for modifying inflation on an EOSIO chain.
 - **Proposer**: `eosnationftw`
 - **Proposal Name**: `setinflation`
 
-**Testnets**
+**Proposed on following Testnets:**
 
 - [Kylin](https://kylin.bloks.io/msig/eosnationftw/setinflation)
 - [Jungle2](https://jungle.bloks.io/msig/eosnationftw/setinflation)
